@@ -18,3 +18,5 @@ def cetak_daftar_nilai():
 def cetak_hasil_pencarian():
     if len(data_mahasiswa) <= 0:
         cari_data()
+
+        

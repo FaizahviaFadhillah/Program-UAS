@@ -218,6 +218,5 @@ while True:
 # Link Dokumentasi Youtube
 [Link Youtube](https://youtu.be/HJq4QTxkzCM)
 
-# Link Dokumentasi PDF
-[Link Google Drive]()
+
 
